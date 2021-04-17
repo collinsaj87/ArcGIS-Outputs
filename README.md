@@ -3,7 +3,7 @@ Portfolio of outputs in ArcGIS
 
 This is a dynamic portfolio of work that reflects key areas of learning. 
 
-<B>Description of works uploaded:<\B>
+<B>Description of works uploaded:</B>
 
 LCA_MCE.pdf - a report comparing two methods of land capability assessent for agriculture in Scotland.
 
